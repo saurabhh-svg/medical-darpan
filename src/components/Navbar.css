@@ -10,5 +10,47 @@ body {
   background-color: brown;
   color: white;
   display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding: 0 1rem;
+}
+.site-routes {
   justify-content: space-between;
+  padding: 1rem;
+}
+.site-login {
+  justify-content: space-around;
+  padding-left: 10rem;
+  padding-right: 1rem;
+}
+
+.nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.nav a {
+  color: inherit;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.site-title {
+  font-size: 2rem !important;
+  padding-left: 0;
+  padding-right: 10rem;
+}
+.site-logo {
+  width: 30px;
+  height: 30px;
+  border-radius: 10%;
+}
+.nav li:active {
+  background-color: grey;
+}
+.nav li:hover {
+  background-color: blue;
 }

@@ -1,9 +1,13 @@
 import React from "react";
 import "./Navbar.css";
+import logo from "../images/logoo.png";
+import AccountCircleOutlinedIcon from "@mui/icons-material/AccountCircleOutlined";
 
 function Navbar() {
   return (
     <nav className="nav">
+      <img src={logo} alt="Logo" className="site-logo" />
+
       <a href="/" className="site-title">
         Medical Darpan
       </a>
@@ -38,6 +42,14 @@ function Navbar() {
           <a href="/blog" className="site-routes">
             Blog
           </a>
+        </li>
+        <li>
+          <a href="/login" className="site-login">
+            Login
+          </a>
+        </li>
+        <li>
+          <AccountCircleOutlinedIcon />
         </li>
       </ul>
     </nav>
