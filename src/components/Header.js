@@ -1,9 +1,11 @@
 import React from "react";
+import SearchIcon from "@mui/icons-material/Search";
 
 function Header() {
   return (
     <div>
-      <h1>Header</h1>
+      <SearchIcon fontSize="medium" />
+      <input type="text" placeholder="Search Here" />
     </div>
   );
 }
