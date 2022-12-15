@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
 import { Route, Routes } from "react-router-dom";
-import Home from "./pages/home";
+import Home from "./pages/Home";
 import Products from "./pages/products";
 import Distributors from "./pages/distributors";
 import Manufacturers from "./pages/manufacturers";
@@ -25,7 +25,6 @@ function App() {
       </Routes>
 
       <Header />
-      
       <Sidebar />
     </div>
   );
