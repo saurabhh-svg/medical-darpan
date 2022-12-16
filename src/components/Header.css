@@ -1,5 +1,32 @@
-.searchbar {
+.search {
   position: absolute;
-  top: 50px;
+  top: 60px;
   left: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search .searchbar {
+  width: 300px;
+  height: 40px;
+  border: 1px solid black;
+  font-size: 1.2rem;
+  outline: none;
+  place-items: center;
+}
+.search .searchbar:focus {
+  outline: none;
+}
+.search .btn {
+  background-color: rgb(0, 196, 130);
+  border: 1px solid rgb(0, 0, 0);
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.search .searchbar .icon {
+  place-items: center;
+  height: 30px;
+  width: 30px;
 }
