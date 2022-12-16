@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/c/static/css/main.4940234c.css",
-    "main.js": "/c/static/js/main.ea9afdde.js",
-    "static/media/photo.png": "/c/static/media/photo.65700bdff991282bc574.png",
-    "static/media/logoo.png": "/c/static/media/logoo.6a3746758341f01a2663.png",
-    "index.html": "/c/index.html",
-    "main.4940234c.css.map": "/c/static/css/main.4940234c.css.map",
-    "main.ea9afdde.js.map": "/c/static/js/main.ea9afdde.js.map"
+    "main.css": "/medical-darpan/static/css/main.4940234c.css",
+    "main.js": "/medical-darpan/static/js/main.e624efeb.js",
+    "static/media/photo.png": "/medical-darpan/static/media/photo.65700bdff991282bc574.png",
+    "static/media/logoo.png": "/medical-darpan/static/media/logoo.6a3746758341f01a2663.png",
+    "index.html": "/medical-darpan/index.html",
+    "main.4940234c.css.map": "/medical-darpan/static/css/main.4940234c.css.map",
+    "main.e624efeb.js.map": "/medical-darpan/static/js/main.e624efeb.js.map"
   },
   "entrypoints": [
     "static/css/main.4940234c.css",
-    "static/js/main.ea9afdde.js"
+    "static/js/main.e624efeb.js"
   ]
 }
