@@ -1,6 +1,6 @@
 import React from "react";
 
-function distributors() {
+function Distributors() {
   return (
     <div>
       <h1>distributors</h1>
@@ -8,4 +8,4 @@ function distributors() {
   );
 }
 
-export default distributors;
+export default Distributors;

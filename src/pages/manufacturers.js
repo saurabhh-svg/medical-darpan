@@ -1,6 +1,6 @@
 import React from 'react'
 
-function manufacturers() {
+function Manufacturers() {
   return (
     <div>
       <h1>manufacturers</h1>
@@ -8,4 +8,4 @@ function manufacturers() {
   );
 }
 
-export default manufacturers
+export default Manufacturers

@@ -5,11 +5,11 @@ import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
 import { Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
-import Products from "./pages/products";
-import Distributors from "./pages/distributors";
-import Manufacturers from "./pages/manufacturers";
-import Aboutus from "./pages/aboutus";
-import Blog from "./pages/blog";
+import Products from "./pages/Products";
+import Distributors from "./pages/Distributors";
+import Manufacturers from "./pages/Manufacturers";
+import Aboutus from "./pages/Aboutus";
+import Blog from "./pages/Blog";
 
 function App() {
   return (

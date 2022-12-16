@@ -12,7 +12,7 @@ function Header(item) {
       return value.title.toLowerCase().includes(searchWord.toLowerCase());
     });
     if (searchWord === "") {
-      setFilteredData;
+      setFilteredData([]);
     } else {
       setFilteredData(newFilter);
     }
