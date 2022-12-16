@@ -15,7 +15,8 @@ body {
 .sidebar-container {
   width: 20%;
   height: 100%;
-  background-color: grey;
+  background-color: rgb(172, 172, 172);
+  border-radius: 1%;
 
   min-height: 100vh;
   padding: 0;
