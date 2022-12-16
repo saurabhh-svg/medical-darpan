@@ -1,10 +1,8 @@
 import React from "react";
 import {
   Card,
-  CardHeader,
   CardBody,
   CardFooter,
-  SimpleGrid,
   Text,
   Button,
   Heading,

@@ -3,7 +3,7 @@ import SearchIcon from "@mui/icons-material/Search";
 import "./Header.css";
 import items from "../data/search.json";
 
-function Header(item) {
+function Header(data) {
   const [filteredData, setFilteredData] = useState([]);
 
   const handleFilter = (event) => {
@@ -34,7 +34,7 @@ function Header(item) {
         <button type="Submit">Search</button>
       </div>
 
-      {filteredData.length != 0 && (
+      {filteredData.length !== 0 && (
         <div className="dataResult">
           {filteredData.map((value, key) => {
             return (
