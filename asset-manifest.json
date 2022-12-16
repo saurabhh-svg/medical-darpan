@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/medical-darpan/static/css/main.4940234c.css",
+    "main.js": "/medical-darpan/static/js/main.a7ceeebb.js",
+    "static/media/photo.png": "/medical-darpan/static/media/photo.65700bdff991282bc574.png",
+    "static/media/logoo.png": "/medical-darpan/static/media/logoo.6a3746758341f01a2663.png",
+    "index.html": "/medical-darpan/index.html",
+    "main.4940234c.css.map": "/medical-darpan/static/css/main.4940234c.css.map",
+    "main.a7ceeebb.js.map": "/medical-darpan/static/js/main.a7ceeebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4940234c.css",
+    "static/js/main.a7ceeebb.js"
+  ]
+}
