@@ -8,7 +8,6 @@ function Home() {
   const [data, setData] = useState([1, 2, 3, 4, 5, 6]);
   return (
     <div className="super-container">
-      
       <div className="sidebar-container">
         <Sidebar />
       </div>
