@@ -25,7 +25,6 @@ function App() {
       </Routes>
 
       <Header />
-      <Sidebar />
     </div>
   );
 }

@@ -1,0 +1,105 @@
+[
+  {
+    "title": "Related Category",
+    "childrens": [
+      {
+        "title": "Paracetamol Tablet",
+        "path": "/"
+      },
+      {
+        "title": "Paracetamol Syrup",
+        "path": "/"
+      },
+      {
+        "title": "Paracetamol Powder",
+        "path": "/"
+      },
+      {
+        "title": "Acetofenac",
+        "path": "/"
+      },
+      {
+        "title": "Magaladrate Semithicone Oral Suspension",
+        "path": "/"
+      },
+      {
+        "title": "Mefanamic Paracetamol Syrup",
+        "path": "/"
+      }
+    ]
+  },
+
+  {
+    "title": "Related Brands",
+    "childrens": [
+      {
+        "title": "Cipmol Paracetamol"
+      },
+      {
+        "title": "Pandal Paracetamol Tablets"
+      },
+      {
+        "title": "Combiflam"
+      },
+      {
+        "title": "CrocinTablets"
+      },
+      {
+        "title": "Calpol Paracetamol Tablets"
+      },
+      {
+        "title": "Sumo Tablets"
+      }
+    ]
+  },
+  {
+    "title": "Buisness Type",
+    "childrens": [
+      {
+        "title": "Wholesaler"
+      },
+      {
+        "title": "Manufacturer"
+      },
+      {
+        "title": "Retailer"
+      },
+      {
+        "title": "Exporter"
+      }
+    ]
+  },
+  {
+    "title": "Strength",
+    "childrens": [
+      {
+        "title": "500mg"
+      },
+      {
+        "title": "650mg"
+      }
+    ]
+  },
+  {
+    "title": "Manufacturer",
+    "childrens": [
+      {
+        "title": "Intas Pharmaceuticals Ltd."
+      },
+      {
+        "title": "Alkem Pharmaceuticals Ltd."
+      }
+    ]
+  },
+  {
+    "title": "Prescription/Non-Prescription",
+    "childrens": [
+      {
+        "title": "Intas Pharmaceuticals Ltd."
+      },
+      {
+        "title": "Alkem Pharmaceuticals Ltd."
+      }
+    ]
+  }
+]

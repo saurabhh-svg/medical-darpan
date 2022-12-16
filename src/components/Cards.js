@@ -22,7 +22,7 @@ function Cards() {
       <Card maxW="sm">
         <CardBody>
           <Image src={photo} alt="Fabiflu Tablets" borderRadius="lg" />
-          <Stack mt="6" spacing="3">
+          <Stack mt="6" spacing="1">
             <Heading size="md">Favipiravir 400mg (Fabiflu) Tablets</Heading>
             <Text color="brown" fontSize="2xl" fontWeight="bold">
               Rs 1,775{" "}

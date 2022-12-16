@@ -1,5 +1,7 @@
 .cards {
- 
   border: 1px solid black;
   border-radius: 5%;
+  width: 25%;
+  height: 470px;
+  min-width: 320px;
 }

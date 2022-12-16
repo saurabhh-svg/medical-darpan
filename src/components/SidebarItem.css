@@ -1,0 +1,38 @@
+.sidebar-item {
+  padding: 1em;
+  font-size: 1.1em;
+  color: black;
+  display: block;
+  text-align: center;
+}
+
+.sidebar-item:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+  color: #000;
+}
+
+.sidebar-title {
+  justify-content: space-between;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.sidebar-list {
+  padding-top: 0.25rem;
+  height: 0;
+  overflow: hidden;
+}
+
+.sidebar-item.open .sidebar-list {
+  height: auto;
+  background-color: #fff;
+  border-radius: 10%;
+}
+.sidebar-title .toggle-btn {
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+.sidebar-item.open .sidebar-title .toggle-btn {
+  transform: rotate(180deg);
+}

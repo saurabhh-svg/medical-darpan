@@ -6,11 +6,24 @@ body {
   margin: 0;
 }
 
-.container {
-  background-color: brown;
-  color: white;
+.super-container {
+  margin-top: 70px;
   display: flex;
-  align-items: center;
-  gap: 2rem;
-  padding: 0 1rem;
+  padding: 0;
+}
+
+.sidebar-container {
+  width: 20%;
+  height: 100%;
+  background-color: grey;
+
+  min-height: 100vh;
+  padding: 0;
+}
+
+.card-container {
+  padding: 0 !important;
+  width: 80%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(344px, 1fr));
 }
